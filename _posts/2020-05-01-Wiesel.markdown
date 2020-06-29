@@ -1,0 +1,13 @@
+---
+layout: post
+title:  Wiesel oder Marder
+date:   2020-05-01 16:03:00 +0300
+image:  00.jpg
+tags:   Wiesel
+---
+
+# Wiesel
+
+![]({{site.baseurl}}/img/05.jpg)
+
+vieleicht auch ein marder ______________________________________________________________________________________________
