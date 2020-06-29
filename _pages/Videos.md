@@ -2,7 +2,7 @@
 layout: page
 title: Videos
 permalink: /videos/
-image: 11.jpg    
+image: 00.jpg    
 ---
 
 ### Images
