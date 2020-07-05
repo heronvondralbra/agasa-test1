@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Dachs
+date:   2020-05-01 16:04:55 +0300
+image:  badger1.jpg
+tags:   Dachs
+---
+# Dachs
+
+![]({{site.baseurl}}/img/00.jpg)
