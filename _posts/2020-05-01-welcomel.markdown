@@ -1,12 +1,15 @@
 ---
 layout: post
-title:  "Welcome!"
+title:  "Salamander"
 date:   2020-05-01 18:05:55 +0300
 image:  11.jpg
-tags:   [Fox]
+tags:   [Salamander]
 ---
-# Foxes
+# Salamander
 
 
 ![]({{site.baseurl}}/img/00.jpg)
+
+
+____________________________________________________________________________________________________________________________________________
 
