@@ -2,12 +2,15 @@
 layout: post
 title:  Frosch
 date:   2020-05-01 16:04:55 +0300
-image:  fg1.JPG
+image:  fg1.jpg
 tags:   [Amphibien]
 ---
 # Frosch
 
 ![]({{site.baseurl}}/img/00.jpg)
+
+
+![]({{site.baseurl}}/img/fg2.jpg)
 
 Frosch ? Kröte ?
 

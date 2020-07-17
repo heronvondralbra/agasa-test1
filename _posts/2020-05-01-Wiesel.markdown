@@ -12,4 +12,4 @@ tags:   [Wiesel]
 
 vieleicht auch ein marder ______________________________________________________________________________________________
 
-![]({{site.baseurl}}/img/marten.jpg)
+![]({{site.baseurl}}/img/ws2.jpg)
