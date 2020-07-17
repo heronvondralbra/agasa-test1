@@ -2,7 +2,7 @@
 layout: post
 title:  Dachs
 date:   2020-06-02 16:04:55 +0300
-image:  badger1.jpg
+image:  dc1.jpg
 tags:   [Dachs] 
 ---
 # Dachs

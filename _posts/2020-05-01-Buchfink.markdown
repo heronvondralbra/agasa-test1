@@ -2,10 +2,16 @@
 layout: post
 title:  Buchfink
 date:   2020-05-01 16:04:00 +0300
-image:  09.jpg
+image:  bf1.jpg
 tags:   [Buchfink]
 ---
 # buchfink
+
+![]({{site.baseurl}}/img/00.jpg)
+
+![]({{site.baseurl}}/img/bf2.jpg)
+
+![]({{site.baseurl}}/img/bf3.jpg)
 
 ![]({{site.baseurl}}/img/00.jpg)
 

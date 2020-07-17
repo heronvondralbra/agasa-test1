@@ -2,7 +2,7 @@
 layout: post
 title:  Reh
 date:   2020-05-01 16:03:50 +0300
-image:  04.jpg
+image:  rh0.jpg
 tags:   [Reh]
 ---
 
@@ -10,15 +10,18 @@ tags:   [Reh]
 
 ![]({{site.baseurl}}/img/00.jpg)
 
-![]({{site.baseurl}}/img/reh1.jpg)
+![]({{site.baseurl}}/img/rh1.jpg)
 
-![]({{site.baseurl}}/img/reh2.jpg)
+![]({{site.baseurl}}/img/rh2.jpg)
 
-![]({{site.baseurl}}/img/reh3.jpg)
+![]({{site.baseurl}}/img/rh3.jpg)
 
-![]({{site.baseurl}}/img/reh4.jpg)
+![]({{site.baseurl}}/img/rh4.jpg)
 
-![]({{site.baseurl}}/img/reh5.jpg)
+![]({{site.baseurl}}/img/rh5.jpg)
 
+![]({{site.baseurl}}/img/rh6.jpg)
+
+![]({{site.baseurl}}/img/rh7.jpg)
 
 ..............................................................................................................................................................

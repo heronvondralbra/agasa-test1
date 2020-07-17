@@ -2,10 +2,14 @@
 layout: post
 title:  Feldhase
 date:   2020-05-01 16:03:30 +0300
-image:  10.jpg
+image:  hs1.jpg
 tags:   [Feldhase]
 ---
 
 ![]({{site.baseurl}}/img/00.jpg)
+
+![]({{site.baseurl}}/img/hs2.jpg)
+
+![]({{site.baseurl}}/img/hs3.jpg)
 
 Feldhase __________________________________________________________________________________________________________

@@ -2,7 +2,7 @@
 layout: post
 title:  "Salamander"
 date:   2020-05-01 18:05:55 +0300
-image:  11.jpg
+image:  sl1.jpg
 tags:   [Salamander]
 ---
 # Salamander
