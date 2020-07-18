@@ -13,3 +13,5 @@ tags:   [Wiesel]
 vieleicht auch ein marder ______________________________________________________________________________________________
 
 ![]({{site.baseurl}}/img/ws2.jpg)
+
+![]({{site.baseurl}}/img/ws3.jpg)
