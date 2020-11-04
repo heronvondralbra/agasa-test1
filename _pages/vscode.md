@@ -6,10 +6,10 @@ image: 00.jpg
 ---
 
 
-### VSCode
+### VSCode   
 
 [powershell loops](https://www.youtube.com/watch?v=_WIZPgPB8Wk "powershell Loops")
 
 [Techjing link](https://www.youtube.com/channel/UC8BQ_LlJJ6DdPeuAiPsLb7Q "Link zu Techjing")
 
-[Techjing link](https://www.youtube.com/watch?v=nnywuRaU6_I "Link zu Powershell.org ->WSL")
+[Link zu Powershell.org Beitrag über WSL](https://www.youtube.com/watch?v=nnywuRaU6_I "Link zu Powershell.org ->WSL")
