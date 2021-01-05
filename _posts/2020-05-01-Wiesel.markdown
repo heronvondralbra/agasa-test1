@@ -8,10 +8,10 @@ tags:   [Wiesel]
 
 # Wiesel
 
-![]({{site.baseurl}}/img/00.jpg)
+![Bild Wiesel Nr. 0]({{site.baseurl}}/img/00.jpg)
 
 vieleicht auch ein marder ______________________________________________________________________________________________
 
-![]({{site.baseurl}}/img/ws2.jpg)
+![Bild Wiesel Nr. 2]({{site.baseurl}}/img/ws2.jpg)
 
-![]({{site.baseurl}}/img/ws3.jpg)
+![Bild Wiesel Nr. 3]({{site.baseurl}}/img/ws3.jpg)

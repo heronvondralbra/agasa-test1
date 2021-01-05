@@ -7,9 +7,9 @@ tags:   [Amphibien]
 ---
 # Frosch
 
-![]({{site.baseurl}}/img/00.jpg)
+![Bild Frosch Nr. 0]({{site.baseurl}}/img/00.jpg)
 
-![]({{site.baseurl}}/img/fg2.jpg)
+![Bild Frosch Nr. 2]({{site.baseurl}}/img/fg2.jpg)
 
 Frosch ? Kröte ?
 

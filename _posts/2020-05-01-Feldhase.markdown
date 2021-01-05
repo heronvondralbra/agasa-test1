@@ -6,12 +6,12 @@ image:  hs1.jpg
 tags:   [Feldhase]
 ---
 
-![]({{site.baseurl}}/img/00.jpg)
+![Bild Hase Nr. 1]({{site.baseurl}}/img/00.jpg)
 
-![]({{site.baseurl}}/img/hs2.jpg)
+![Bild Hase Nr. 2]({{site.baseurl}}/img/hs2.jpg)
 
-![]({{site.baseurl}}/img/hs3.jpg)
+![Bild Hase Nr. 3]({{site.baseurl}}/img/hs3.jpg)
 
-![]({{site.baseurl}}/img/hs4.jpg)
+![Bild Hase Nr. 4]({{site.baseurl}}/img/hs4.jpg)
 
 Feldhase __________________________________________________________________________________________________________

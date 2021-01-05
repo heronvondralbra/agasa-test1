@@ -7,12 +7,12 @@ tags:   [Buchfink]
 ---
 # buchfink
 
-![]({{site.baseurl}}/img/00.jpg)
+![Bild Buchfink Nr. 0]({{site.baseurl}}/img/00.jpg)
 
-![]({{site.baseurl}}/img/bf2.jpg)
+![Bild Buchfink Nr. 1]({{site.baseurl}}/img/bf2.jpg)
 
-![]({{site.baseurl}}/img/bf3.jpg)
+![Bild Buchfink Nr. 2]({{site.baseurl}}/img/bf3.jpg)
 
-![]({{site.baseurl}}/img/00.jpg)
+![Bild Buchfink Nr. 3]({{site.baseurl}}/img/00.jpg)
 
 Buchfink __________________________________________________________________________________________________________________________________________

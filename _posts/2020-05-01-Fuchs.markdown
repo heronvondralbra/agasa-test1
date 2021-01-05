@@ -6,18 +6,18 @@ image:  fx1.jpg
 tags:   [Fuchs]
 ---
 
-![]({{site.baseurl}}/img/00.jpg)
+![Bild Fuchs Nr. 0]({{site.baseurl}}/img/00.jpg)
 
-![]({{site.baseurl}}/img/fx2.jpg)
+![Bild Fuchs Nr. 2]({{site.baseurl}}/img/fx2.jpg)
 
-![]({{site.baseurl}}/img/fx3.jpg)
+![Bild Fuchs Nr. 3]({{site.baseurl}}/img/fx3.jpg)
 
-![]({{site.baseurl}}/img/fx4.jpg)
+![Bild Fuchs Nr. 4]({{site.baseurl}}/img/fx4.jpg)
 
-![]({{site.baseurl}}/img/fx5.jpg)
+![Bild Fuchs Nr. 5]({{site.baseurl}}/img/fx5.jpg)
 
-![]({{site.baseurl}}/img/fx6.jpg)
+![Bild Fuchs Nr. 6]({{site.baseurl}}/img/fx6.jpg)
 
-![]({{site.baseurl}}/img/fx7.jpg)
+![Bild Fuchs Nr. 7]({{site.baseurl}}/img/fx7.jpg)
 
 Etwas über Meister ......................................................................................................................................................................

@@ -7,10 +7,10 @@ tags:   [Dachs]
 ---
 # Dachs
 
-![]({{site.baseurl}}/img/00.jpg)
+![Bild Dachs Nr. 0]({{site.baseurl}}/img/00.jpg)
 
-![]({{site.baseurl}}/img/dc2.jpg)
+![Bild Dachs Nr. 2]({{site.baseurl}}/img/dc2.jpg)
 
-![]({{site.baseurl}}/img/dc3.jpg)
+![Bild Dachs Nr. 3]({{site.baseurl}}/img/dc3.jpg)
 
  -----------------------------------------------------------------------------------------------------------------------------------------

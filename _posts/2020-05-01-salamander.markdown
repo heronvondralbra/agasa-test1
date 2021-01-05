@@ -7,8 +7,7 @@ tags:   [Salamander]
 ---
 # Salamander
 
+![Bild Salamander Nr. 0]({{site.baseurl}}/img/00.jpg)
 
-![]({{site.baseurl}}/img/00.jpg)
-
-![]({{site.baseurl}}/img/sl2.jpg)
+![Bild Salamander Nr. 2]({{site.baseurl}}/img/sl2.jpg)
 ____________________________________________________________________________________________________________________________________________

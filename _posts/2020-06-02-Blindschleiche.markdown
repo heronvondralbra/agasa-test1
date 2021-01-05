@@ -7,6 +7,6 @@ tags:   [Blindschleiche]
 ---
 # Blindschleiche
 
-![]({{site.baseurl}}/img/00.jpg)
+![Bild Bildschleiche Nr. 0]({{site.baseurl}}/img/00.jpg)
 
 ___________________________________________________________________________________________________________________
