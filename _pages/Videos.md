@@ -7,11 +7,11 @@ image: 00.jpg
 
 ### Images
 
-![]({{site.baseurl}}/img/00.jpg)
+![Bild]({{site.baseurl}}/img/00.jpg)
 
 ***
 
-### Videos
+## Videos
 
 <iframe src="{{site.baseurl}}/img/01.mp4" frameborder="0" allowfullscreen></iframe>
 <iframe src="{{site.baseurl}}/img/02.mp4" frameborder="0" allowfullscreen></iframe>  
