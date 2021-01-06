@@ -3,7 +3,7 @@ layout: post
 title:  rano
 date:   2020-05-01 16:04:55 +0300
 image:  fg1.jpg
-tags:   [Amphibien]
+tags:   [Rano]
 ---
 # rano
 
@@ -11,6 +11,6 @@ tags:   [Amphibien]
 
 ![rano Nr. 2]({{site.baseurl}}/img/fg2.jpg)
 
-rano ? Kröte ?
+rano ?
 
 ___________________________________________________________________________________________________________
