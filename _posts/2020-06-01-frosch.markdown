@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  Frosch
+title:  rano
 date:   2020-05-01 16:04:55 +0300
 image:  fg1.jpg
 tags:   [Amphibien]
 ---
-# Frosch
+# rano
 
-![Bild Frosch Nr. 0]({{site.baseurl}}/img/00.jpg)
+![rano Nr. 0]({{site.baseurl}}/img/00.jpg)
 
-![Bild Frosch Nr. 2]({{site.baseurl}}/img/fg2.jpg)
+![rano Nr. 2]({{site.baseurl}}/img/fg2.jpg)
 
-Frosch ? Kröte ?
+rano ? Kröte ?
 
 ___________________________________________________________________________________________________________

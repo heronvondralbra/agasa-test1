@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  Wiesel oder Marder
+title:  mustelo oder Marder
 date:   2020-05-01 16:03:00 +0300
 image:  ws1.jpg
-tags:   [Wiesel]
+tags:   [mustelo]
 ---
 
-# Wiesel
+# mustelo
 
-![Bild Wiesel Nr. 0]({{site.baseurl}}/img/00.jpg)
+![mustelo Nr. 0]({{site.baseurl}}/img/00.jpg)
 
 vieleicht auch ein marder ______________________________________________________________________________________________
 
-![Bild Wiesel Nr. 2]({{site.baseurl}}/img/ws2.jpg)
+![mustelo Nr. 2]({{site.baseurl}}/img/ws2.jpg)
 
-![Bild Wiesel Nr. 3]({{site.baseurl}}/img/ws3.jpg)
+![mustelo Nr. 3]({{site.baseurl}}/img/ws3.jpg)

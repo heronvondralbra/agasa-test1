@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Eule (Waldkauz?)
+title:  strigo (?)
 date:   2020-05-01 16:04:55 +0300
 image:  el1.jpg
-tags:   [Eulen]
+tags:   [strigon]
 ---
-# Eule
+# strigo
 
-![Bild Eule Nr. 0]({{site.baseurl}}/img/00.jpg)
+![strigo Nr. 0]({{site.baseurl}}/img/00.jpg)
 
 vermutlich Waldhauz _________________________________________________________________________________________________________________________

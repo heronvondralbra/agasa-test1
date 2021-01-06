@@ -1,23 +1,23 @@
 ---
 layout: post
-title:  Fuchs
+title:  vulpo
 date:   2020-05-01 16:05:55 +0300
 image:  fx1.jpg
-tags:   [Fuchs]
+tags:   [vulpo]
 ---
 
-![Bild Fuchs Nr. 0]({{site.baseurl}}/img/00.jpg)
+![vulpo Nr. 0]({{site.baseurl}}/img/00.jpg)
 
-![Bild Fuchs Nr. 2]({{site.baseurl}}/img/fx2.jpg)
+![vulpo Nr. 2]({{site.baseurl}}/img/fx2.jpg)
 
-![Bild Fuchs Nr. 3]({{site.baseurl}}/img/fx3.jpg)
+![vulpo Nr. 3]({{site.baseurl}}/img/fx3.jpg)
 
-![Bild Fuchs Nr. 4]({{site.baseurl}}/img/fx4.jpg)
+![vulpo Nr. 4]({{site.baseurl}}/img/fx4.jpg)
 
-![Bild Fuchs Nr. 5]({{site.baseurl}}/img/fx5.jpg)
+![vulpo Nr. 5]({{site.baseurl}}/img/fx5.jpg)
 
-![Bild Fuchs Nr. 6]({{site.baseurl}}/img/fx6.jpg)
+![vulpo Nr. 6]({{site.baseurl}}/img/fx6.jpg)
 
-![Bild Fuchs Nr. 7]({{site.baseurl}}/img/fx7.jpg)
+![vulpo Nr. 7]({{site.baseurl}}/img/fx7.jpg)
 
 Etwas über Meister ......................................................................................................................................................................

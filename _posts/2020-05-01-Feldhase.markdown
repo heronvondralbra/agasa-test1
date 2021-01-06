@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  Feldhase
+title:  bruna leporo
 date:   2020-05-01 16:03:30 +0300
 image:  hs1.jpg
-tags:   [Feldhase]
+tags:   [bruna leporo]
 ---
 
-![Bild Hase Nr. 1]({{site.baseurl}}/img/00.jpg)
+![bruna leporo Nr. 1]({{site.baseurl}}/img/00.jpg)
 
-![Bild Hase Nr. 2]({{site.baseurl}}/img/hs2.jpg)
+![bruna leporo Nr. 2]({{site.baseurl}}/img/hs2.jpg)
 
-![Bild Hase Nr. 3]({{site.baseurl}}/img/hs3.jpg)
+![bruna leporo Nr. 3]({{site.baseurl}}/img/hs3.jpg)
 
-![Bild Hase Nr. 4]({{site.baseurl}}/img/hs4.jpg)
+![bruna leporo Nr. 4]({{site.baseurl}}/img/hs4.jpg)
 
-Feldhase __________________________________________________________________________________________________________
+bruna leporo __________________________________________________________________________________________________________

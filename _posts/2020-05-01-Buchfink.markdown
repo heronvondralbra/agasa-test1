@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  Buchfink
+title:  fringon
 date:   2020-05-01 16:04:00 +0300
 image:  bf1.jpg
-tags:   [Buchfink]
+tags:   [fringon]
 ---
-## buchfink
+## fringon
 
-![Bild Buchfink Nr. 0]({{site.baseurl}}/img/00.jpg)
+![fringon Nr. 0]({{site.baseurl}}/img/00.jpg)
 
-![Bild Buchfink Nr. 1]({{site.baseurl}}/img/bf2.jpg)
+![fringon Nr. 1]({{site.baseurl}}/img/bf2.jpg)
 
-![Bild Buchfink Nr. 2]({{site.baseurl}}/img/bf3.jpg)
+![fringon Nr. 2]({{site.baseurl}}/img/bf3.jpg)
 
-Buchfink __________________________________________________________________________________________________________________________________________
+fringon __________________________________________________________________________________________________________________________________________
