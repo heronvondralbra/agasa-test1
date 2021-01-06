@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  mustelo oder Marder
+title:  mustelo
 date:   2020-05-01 16:03:00 +0300
 image:  ws1.jpg
 tags:   [mustelo]
 ---
 
-# mustelo
+# mustelo ?
 
 ![mustelo Nr. 0]({{site.baseurl}}/img/00.jpg)
-
-vieleicht auch ein marder ______________________________________________________________________________________________
 
 ![mustelo Nr. 2]({{site.baseurl}}/img/ws2.jpg)
 
 ![mustelo Nr. 3]({{site.baseurl}}/img/ws3.jpg)
+
+______________________________________________________________________________________________
