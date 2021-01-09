@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: pri
 image: 00.jpg
 permalink: /about/
 ---
 
-# Bilder Fauna
+# Bildoj Faŭno
 
 <small>2018 - 2020</small>
 
