@@ -1,0 +1,14 @@
+I"<h3 id="images">Images</h3>
+
+<p><img src="/agasa-test1/img/00.jpg" alt="Bild" /></p>
+
+<hr />
+
+<h2 id="videos">Videos</h2>
+
+<iframe src="/agasa-test1/img/01.mp4" frameborder="0" allowfullscreen=""></iframe>
+<iframe src="/agasa-test1/img/02.mp4" frameborder="0" allowfullscreen=""></iframe>
+<iframe src="/agasa-test1/img/03.mp4" frameborder="0" allowfullscreen=""></iframe>
+<iframe src="/agasa-test1/img/04.mp4" frameborder="0" allowfullscreen=""></iframe>
+<iframe src="/agasa-test1/img/wb1.mp4" frameborder="0" allowfullscreen=""></iframe>
+:ET
